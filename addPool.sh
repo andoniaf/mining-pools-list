@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Script to add pools in minning-pools.lst checking that they are not repeated.
+# Script to add pools in mining-pools.lst checking that they are not repeated.
 
 POOL=$1
-LIST="minning-pools.lst"
+LIST="mining-pools.lst"
 
 if [ -z $1 ];then
 	echo "Nothing to add..."
