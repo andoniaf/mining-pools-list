@@ -1,5 +1,5 @@
 # mining-pools-list
-- **mining-pools.lst**: List of crypto mining pools.
+- **mining-pools.lst**: List of crypto mining pools. (*Only pools, this list not include related webs like exchanges and forums.*)
 - **addPool.sh**: Script to add pools in mining-pools.lst checking that they are not repeated.
 
 ### Usage: adPool.sh
@@ -31,7 +31,7 @@ Pool "viaxmr.com" added.
 
 -----
 # mining-pools-list [ES]
-- **mining-pools.lst**: Lista de pools de minado de crytos.
+- **mining-pools.lst**: Lista de pools de minado de crytos. (*Solo pools, esta lista no incluye webs relacionadas como exchanges y foros.*)
 - **addPool.sh**: Script para añadir pools comprobando que no se repitan.
 
 ### Uso: adPool.sh
