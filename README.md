@@ -1,9 +1,9 @@
-# minning-pools-list
-- **minning-pools.lst**: List of crypto minning pools.
-- **addPool.sh**: Script to add pools in minning-pools.lst checking that they are not repeated.
+# mining-pools-list
+- **mining-pools.lst**: List of crypto mining pools.
+- **addPool.sh**: Script to add pools in mining-pools.lst checking that they are not repeated.
 
 
 -----
-# minning-pools-list [ES]
-- **minning-pools.lst**: Lista de pools de minado de crytos.
+# mining-pools-list [ES]
+- **mining-pools.lst**: Lista de pools de minado de crytos.
 - **addPool.sh**: Script para añadir pools comprobando que no se repitan.
